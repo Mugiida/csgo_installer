@@ -15,6 +15,7 @@ img {
 	object-position: bottom;
 	margin-top: 20px;
 	margin-bottom: 20px;
+	min-width:200px;
 }
 footer {
 	background-color: #333;
@@ -34,7 +35,7 @@ a {
 	text-decoration: none;
 	color: rgb(255, 255, 255);
 	padding: 10px 15px;	padding: 10px 15px;
-
+	width:fit-content;
 	font-family: arial;
 	font-weight: 400;
 	font-style: normal;
